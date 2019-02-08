@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/hulo/ENVO_import.owl" uri="imports/ENVO_imports.owl"/>
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/hulo/PR_imports.owl" uri="imports/PR_imports.owl"/>
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/hulo/OGMS_imports.owl" uri="imports/OGMS_imports.owl"/>
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/hulo/OGG_imports.owl" uri="imports/OGG_imports.owl"/>
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/hulo/OBI_imports.owl" uri="imports/OBI_imports.owl"/>
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/hulo/CHEBI_imports.owl" uri="imports/CHEBI_imports.owl"/>
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/hulo/BFO_imports.owl" uri="imports/BFO_imports.owl"/>
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/hulo/LifO_imports.owl" uri="imports/LifO_imports.owl"/>
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/hulo/LifO_import.owl" uri="imports/LifO_import.owl"/>
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1549585290262" name="http://purl.obolibrary.org/obo/ecolo/LifO_import.owl" uri="imports/LifO_imports.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1549585290262" name="http://purl.obolibrary.org/obo/hulo.owl" uri="hulo.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1549585290262" name="http://purl.obolibrary.org/obo/hulo/INO_imports.owl" uri="imports/INO_imports.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1549585290262" name="http://purl.obolibrary.org/obo/hulo/NCBITaxon_imports.owl" uri="imports/NCBITaxon_imports.owl"/>
+    </group>
+</catalog>

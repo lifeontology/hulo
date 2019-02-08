@@ -1,0 +1,23 @@
+[URI of the OWL(RDF/XML) output file]
+http://purl.obolibrary.org/obo/hulo/ENVO_import.owl
+
+[Source ontology]
+ENVO
+
+[Low level source term URIs]
+http://purl.obolibrary.org/obo/ENVO_01000254 # environmental system
+http://purl.obolibrary.org/obo/ENVO_00002297 # environmental feature
+http://purl.obolibrary.org/obo/ENVO_00010483 # environmental material
+http://purl.obolibrary.org/obo/ENVO_01001110 # ecosystem
+# http://purl.obolibrary.org/obo/ENVO_2100002 # intestine environment
+
+[Top level source term URIs and target direct superclass URIs]
+http://purl.obolibrary.org/obo/BFO_0000040 # material entity
+
+[Source term retrieval setting]
+includeAllIntermediates
+
+[Source annotation URIs]
+includeAllAnnotationProperties
+
+[Source annotation URIs to be excluded]

@@ -1,0 +1,30 @@
+[URI of the OWL(RDF/XML) output file]
+http://purl.obolibrary.org/obo/hulo/OGG_imports.owl
+
+[Source ontology]
+OGG
+
+[Low level source term URIs]
+http://purl.obolibrary.org/obo/OGG_0000000002 # gene
+http://purl.obolibrary.org/obo/OGG_0000000001 # genome
+http://purl.obolibrary.org/obo/OGG_0000000003 # gene disposition
+http://purl.obolibrary.org/obo/BFO_0000028 #three-dimensional spatial region
+
+http://purl.obolibrary.org/obo/OGG_1000002759 #genome of eukaryota
+http://purl.obolibrary.org/obo/OGG_1000009606 #genome of human 
+http://purl.obolibrary.org/obo/OGG_0000000010 #protein-coding gene disposion
+
+http://purl.obolibrary.org/obo/OGG_2000002759 
+
+http://purl.obolibrary.org/obo/OGG_2000009606 
+
+[Top level source term URIs and target direct superclass URIs]
+http://purl.obolibrary.org/obo/BFO_0000040 # material entity
+
+[Source term retrieval setting]
+includeComputedIntermediates
+
+[Source annotation URIs]
+includeAllAxioms
+
+[Source annotation URIs to be excluded]
